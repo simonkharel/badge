@@ -1,0 +1,19 @@
+.center {
+  display: flex;
+  justify-content: center;
+  padding-top: 10%;
+}
+.left {
+  display: flex;
+  justify-content: left;
+  padding-right: 15%;
+  padding-top: 70px;
+  padding-left: 8px;
+}
+.right {
+  display: flex;
+  justify-content: right;
+  padding-left: 15%;
+  padding-top: 70px;
+  padding-right: 8px;
+}

@@ -1,0 +1,36 @@
+.footer {
+  background-color: #ff9467;
+  border-top: 2px solid aliceblue;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+  color: black;
+  text-align: center;
+  font-size: 25px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  height: 10%;
+}
+.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+.social:hover {
+  transform: translateY(-2px);
+}
+.linkedIn {
+  color: #0e76a8;
+  padding: 30px;
+}
+.gitHub {
+  color: #171515;
+  padding: 30px;
+}
+.instagram {
+  color: #3f729b;
+  padding: 30px;
+}
+.youtube {
+  color: #c4302b;
+  padding: 30px;
+}
